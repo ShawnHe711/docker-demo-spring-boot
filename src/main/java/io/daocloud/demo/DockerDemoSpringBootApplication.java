@@ -15,6 +15,6 @@ public class DockerDemoSpringBootApplication {
 
     @RequestMapping("")
     public String hello(){
-        return "Hello!  Zhengda Docker!";
+        return "Hello! Docker!";
     }
 }
